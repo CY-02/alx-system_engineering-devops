@@ -1,2 +1,2 @@
 #!/bin/bash
-(( $TRUEKNOWLEGE + 128 ))
+Export TRUEKNOWLEDGE=(( $TRUEKNOWLEGE + 128 ))
